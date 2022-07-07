@@ -8,6 +8,13 @@
       "php",
       "laravel"
     ],
+    
+        "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/l0gical/CloudflareImagesLaravel"
+        }
+    ]
     "authors": [
         {
             "name": "Alex Buckham",
