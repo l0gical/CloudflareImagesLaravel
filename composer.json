@@ -1,5 +1,5 @@
 {
-    "name": "alexbuckham/cloudflare-images-laravel",
+    "name": "l0gical/cloudflare-images-laravel",
     "description": "Provides access to the Cloudflare Images service for Laravel.",
     "keywords": [
       "alexbuckha",
